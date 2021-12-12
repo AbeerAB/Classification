@@ -5,20 +5,20 @@ The classification goal is to predict if the patient will come to his hospital a
 
 
 ## Data description:
-PatientId
-AppointmentID
-Gender
-ScheduledDay
-AppointmentDay
-Age
-Neighbourhood
-Scholarship
-Hipertension
-Diabetes
-Alcoholism
-Handcap
-SMS_received
-No-show
+* PatientId: numeric
+* AppointmentID: numeric
+* Gender: object
+* ScheduledDay: object
+* AppointmentDay: object
+* Age: numeric: object
+* Neighbourhood: object
+* Scholarship: numeric
+* Hipertension: numeric
+* Diabetes: numeric
+* Alcoholism: numeric
+* Handcap: numeric
+* SMS_received: numeric
+* No-show: numeric
 
 
 ## Size of Data:
