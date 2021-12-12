@@ -10,7 +10,8 @@ Classification Project for T5 Data Science Bootcamp - SDAIA Academy
 
 ## Data Size:
 
-## Models:
-K-Nearest Neighbors
-Logistic Regression
-Decision Trees and Random Forest
+## Team Members
+Abeer Almdani
+
+Rana Alzahrani 
+
