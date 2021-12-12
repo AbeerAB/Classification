@@ -16,9 +16,6 @@
 Number of rows: 110528
 Number of columns: 14
 
-## Dataset sourec:
-
-from Kaggle website [https://www.kaggle.com/imhgchoi/no-show-prediction-with-logistic-regression-ann/data]
 
 ## Models:
 * Decision Trees and Random Forest
