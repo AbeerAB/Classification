@@ -11,6 +11,5 @@ Classification Project for T5 Data Science Bootcamp - SDAIA Academy
 ## Data Size:
 
 ## Team Members
-Abeer Almdani
-Rana Alzahrani 
+Abeer Almdani. Rana Alzahrani 
 
