@@ -1,4 +1,4 @@
-# Proposal: Bank Marketing Classification
+# Proposal: Prediction of Appointment Show 
 
 ## Introduction:
 
