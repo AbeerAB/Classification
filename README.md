@@ -18,9 +18,9 @@ The classification goal is to predict if the patient will come to his hospital a
 
 
 ## Models:
-* Decision Trees and Random Forest
 * Logistic Regression
 * K-Nearest Neighbors
+* Decision Trees and Random Forest
 
 
 ## Tools:
