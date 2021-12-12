@@ -8,4 +8,9 @@ Classification Project for T5 Data Science Bootcamp - SDAIA Academy
 
 ## Data Description:
 
-## Data Size
+## Data Size:
+
+## Models:
+K-Nearest Neighbors
+Logistic Regression
+Decision Trees and Random Forest
