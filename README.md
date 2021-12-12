@@ -4,11 +4,21 @@
 The classification goal is to predict if the patient will come to his hospital appointment or not.
 
 
-## Business Problem:
-
-
-
 ## Data description:
+PatientId
+AppointmentID
+Gender
+ScheduledDay
+AppointmentDay
+Age
+Neighbourhood
+Scholarship
+Hipertension
+Diabetes
+Alcoholism
+Handcap
+SMS_received
+No-show
 
 
 ## Size of Data:
