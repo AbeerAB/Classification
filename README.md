@@ -38,7 +38,6 @@ The classification goal is to predict if the patient will come to his hospital a
 * Pandas
 * numpy
 * seaborn
-* plotly
 * Sklearn
 
 ## Team Members
