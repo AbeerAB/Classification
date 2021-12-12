@@ -13,8 +13,8 @@ The classification goal is to predict if the patient will come to his hospital a
 
 ## Size of Data:
 
-Number of rows: 110528
-Number of columns: 14
+* Number of rows: 110528
+* Number of columns: 14
 
 
 ## Models:
