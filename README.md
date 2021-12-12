@@ -1,7 +1,7 @@
 # Proposal: Prediction of Appointment Show 
 
 ## Introduction:
-
+The classification goal is to predict if the patient will come to his hospital appointment .
 
 
 ## Business Problem:
