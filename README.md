@@ -10,7 +10,7 @@ The classification goal is to predict if the patient will come to his hospital a
 * Gender: object
 * ScheduledDay: object
 * AppointmentDay: object
-* Age: numeric: object
+* Age: numeric 
 * Neighbourhood: object
 * Scholarship: numeric
 * Hipertension: numeric
