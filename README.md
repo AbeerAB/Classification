@@ -16,7 +16,7 @@ Patients make appointments at clinics or hospitals to be checked by a doctor. So
 * Alcoholism:True or False.
 * Handcap:0-4 (the handcap refers to the number of disabilites a person has. For example, if the person is blind and can't walk the total is 2)
 * SMS_received:1 or more messages sent to the patient.
-* No-show: numeric
+* No-show:True or False.
 
 
 ## Size of Data:
