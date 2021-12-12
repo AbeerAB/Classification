@@ -30,11 +30,10 @@ Decision Trees and Random Forest
 
 ### Softwares:
 
-VScode
-Jupyter
-Github
-PowerPoint
-Zoom
+* Jupyter
+* Github
+* Canva
+* Zoom
 
 ### Languages & Library
 
