@@ -21,10 +21,10 @@ Number of columns: 14
 from Kaggle website [https://www.kaggle.com/imhgchoi/no-show-prediction-with-logistic-regression-ann/data]
 
 ## Models:
+* Decision Trees and Random Forest
+* Logistic Regression
+* K-Nearest Neighbors
 
-Logistic Regression
-K-Nearest Neighbors
-Decision Trees and Random Forest
 
 ## Tools:
 
@@ -37,14 +37,14 @@ Decision Trees and Random Forest
 
 ### Languages & Library
 
-Python
-Pandas
-numpy
-seaborn
-plotly
-
+* Python
+* Pandas
+* numpy
+* seaborn
+* plotly
+* Sklearn
 
 ## Team Members
 
-Abeer Almdani
-Rana Alzahrani
+* Abeer Almdani
+* Rana Alzahrani
